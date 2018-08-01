@@ -41,11 +41,11 @@
 	<distributionManagement>
 
 		<repository>
-			<id>ramakanth</id>
+			<id>reddy1</id>
 			<url>http://localhost:8081/nexus/content/repositories/ramakanth/</url>
 		</repository>
 		<snapshotRepository>
-			<id>ramakanth1</id>
+			<id>reddy12</id>
 			<url>http://localhost:8081/nexus/content/repositories/ramakanth1/</url>
 		</snapshotRepository>		
   </distributionManagement>
